@@ -13,3 +13,12 @@
  *= require_tree .
  *= require_self
  */
+
+.navbar-link {
+  color:white;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+}
